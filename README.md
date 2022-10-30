@@ -1,0 +1,1 @@
+# Inserting 10 Million Records in SQL Server with C# and ADO.NET (Efficient way)
